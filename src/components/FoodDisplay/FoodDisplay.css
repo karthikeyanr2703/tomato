@@ -1,0 +1,18 @@
+.food-display{
+    padding: 30px;
+    margin-top: 10px;
+}
+.food-display h2{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+.food-display-list{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content:center;
+    gap: 20px;
+
+
+}

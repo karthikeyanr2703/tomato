@@ -41,6 +41,9 @@
 }
 .explore-menu hr{
     height: 2px;
+    background-color: black;
+    border: none;
+
 
 }
 .explore-menu-list .active{
